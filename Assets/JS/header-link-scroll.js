@@ -30,18 +30,5 @@ document.addEventListener('DOMContentLoaded', function() {
       dropDown.classList.add('active')
     }
   };
-
-
-  // const el = document.getElementById('menu-button');
-  // const dropDown = document.getElementById('drop-down');
-  // function changeMenuState() {
-  //   if(dropDown.classList.contains('active')) {
-  //     console.log("Class removed")
-  //     dropDown.classList.remove('active')
-  //   } else {
-  //     console.log("Class added")
-  //     dropDown.classList.add('active')
-  //   }
-  // }
   
 })
