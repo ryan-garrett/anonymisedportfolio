@@ -494,9 +494,6 @@ footer {
   .main-content {
     max-width: 85%;
   }
-  .header-link-group {
-    display: none;
-  }
   .heading--large {
     font-size: 2.5rem;
     margin-top: 0;
@@ -518,6 +515,10 @@ footer {
     display: flex;
     justify-content: center;
     position: relative;
+    max-width: 85%;
+  }
+  .header-link {
+    padding-right: 15px;
   }
   .header-menu-icon {
     display: block;
